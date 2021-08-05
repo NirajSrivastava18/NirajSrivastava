@@ -33,9 +33,6 @@ I have built some projects and eager to know more about the same.
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100">
 
 ## 📶 Stats:
-<div align="center" >
-  <div style="display:flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=NirajSrivastava18&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+   <img src="https://github-readme-stats.vercel.app/api?username=NirajSrivastava18&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajSrivastava18&theme=dracula&layout=compact" alt="NirajSrivastava"  />
-  </div>
-  </div>
+ 
