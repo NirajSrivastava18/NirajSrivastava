@@ -1,6 +1,6 @@
 ## Hi there, I'm Niraj👋
 
-I am pursuing computer science engineering from Galgotias University. Currently, I am in 3rd year.
+I am pursuing computer science engineering from Galgotias University. Currently, I am in 4th year.
 Passionate about coding and development. I have a great interest in Web Development.
 I have built some projects and eager to know more about the same.
 
