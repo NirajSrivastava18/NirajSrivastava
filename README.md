@@ -7,12 +7,13 @@ I have built some projects and eager to know more about the same.
 
 ## Want to connect?
 
+<!-- 
 <a href="https://discord.gg/Zttq6ngX">
   <img align="left" alt="zdev Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/NirajSrivastav4">
   <img align="left" alt="Niraj Srivastava | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/niraj-srivastava-zdev/">
   <img align="left" alt="Niraj's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
