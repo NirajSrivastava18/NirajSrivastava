@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://nirajsrivastava.netlify.app/](https://nirajsrivastava.netlify.app/)
+- 👨‍💻 All of my projects are available at [niraj-portfolio-one.vercel.app](niraj-portfolio-one.vercel.app)
 
 - 📫 How to reach me **https://www.linkedin.com/in/niraj-srivastava-94800a194/**
 
